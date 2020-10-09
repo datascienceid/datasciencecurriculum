@@ -1,21 +1,35 @@
 # Data Science Learning Path
 
 
-### List Table of contents 
+## DAFTAR Isi 
 
 
-* [Beginner](#Beginner)
-Overview | Description
+**
 
-**Main Course :**  **Progamming With Python**
-
-**What will be learn :**
-Basic skills to write program using Python for Data Science such as basic syntax, basic operations, logic, looping, data structures, using database with Pythoh, etc
+**Apa itu Data Scientist?**
 
 
-Preview | Description
------------- | -------------
-Link : [<img src="https://cdn.techinasia.com/wp-content/uploads/2015/06/coursera.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
+**
+
+**Apa yang dilakukan oleh seorang Data Scientist**
+
+[poin poin tentang jobs/tasks apa saja yang dilakukan oleh seorang data scientist], e.g.:
+
+* Melakukan analisis terhadap data
+* Mengekstraksi suatu insight dari data
+* Membuat pemodelan (machine learning/deep learning) terhadap data untuk menemukan pola/pattern
+
+
+**Apa saja yang harus dikuasai seorang Data Scientist?**
+
+[poin-poin tentang basic Knowledge dan skills yang harus dimiliki, poin-poin] e.g.:
+* Ilmu statistika, stokastik, dan probabilitas
+* Ilmu aljabar linier dan multivariate calculus
+* Teknik visualisasi data
+* Teknik storytelling
+* Machine learning
+* Deep Learning
+
 
 
 
