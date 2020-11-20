@@ -327,30 +327,30 @@ Konsep matematika dasar (*Linear algebra*, *Calculus* and *Vector calculus*)
 #### 6.1 Vector and Matrix Operations
 Memahami konsep dasar mengoperasikan *table of data* (suatu Matrix or Vector).
 
-**Buku**
+:books: **Buku**
 * [Matrix Computations](http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
 * [Probability and statistics: The science of uncertainty](http://www.utstat.toronto.edu/mikevans/jeffrosenthal/)
 
 
-**Video**
+:arrow_forward: **Video**
 * [MIT OCW Multivariable Calculus](http://ocw.abu.edu.ng/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
 
 
-**Artikel**
+:bulb: **Artikel**
 * [A Gentle Introduction to Linear Algebra](https://machinelearningmastery.com/gentle-introduction-linear-algebra/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-**Lab**
+:chart_with_downwards_trend: **Lab**
 * [Data Science and Linear Algebra Fundamentals with Python, SciPy, & NumPy](https://www.twilio.com/blog/2018/06/data-science-linear-algebra-python-scipy-numpy.html)
 
 
 #### 6.2 Linear Algebra
 Memahami aplikasi *linear algebra* dalam *Data Science*, sebagai contoh *Principle Component Analysis* (PCA).
 
-**Buku**
+:books: **Buku**
 * [Introduction to Linear Algebra, Fifth Edition (Gilbert Strang)](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_2?crid=1J781HHLGZH0E&dchild=1&keywords=linear+algebra+gilbert+strang&qid=1602248961&s=books&sprefix=linear+algebra+gilbert+%2Cstripbooks%2C399&sr=1-2)
 
-**Video**
+:arrow_forward: **Video**
 * [MIT OCW Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 
@@ -358,7 +358,7 @@ Memahami aplikasi *linear algebra* dalam *Data Science*, sebagai contoh *Princip
 #### 6.3 Calculus and Derivatives
 Memahami fungsi optimasi (menemukan *local minima* & *maxima*).
 
-**Video**
+:arrow_forward: **Video**
 * [MIT OCW Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
 
 
