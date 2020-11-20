@@ -412,7 +412,7 @@ Open source python library providing high-performance.
 ### Bagaimana mempelajari ini?
 
 #### :books: Rekomendasi *Textbook*   
-* [Advanced Sampling Theory with Applications](https://link.springer.com/content/pdf/bfm%3A978-94-007-0789-4%2F1.pdf)
+* [Advanced Sampling Theory with Applications](https://link.springer.com/content/pdf/bfm%3A978-94-007-0789-4%2F1.pdf) *download
 * [Advanced sampling theory with applications: How Michael “selected” Amy. 2 Vols](https://www.researchgate.net/publication/260985262_Advanced_sampling_theory_with_applications_How_Michael_selected_Amy_2_Vols)
 
 #### Rekomendasi Referensi Lain
@@ -495,7 +495,7 @@ Konsep *Deep Learning* sebagai susunan modul-modul, operasi pada *Neural Network
 #### :books: Rekomendasi *Textbook*   
 * [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-* [Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
+* [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) [[pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)]
 * [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm)
 
 #### Rekomendasi Referensi Lain
