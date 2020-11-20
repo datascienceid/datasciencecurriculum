@@ -11,22 +11,22 @@
 ---
 
 ## Daftar Isi
-  * [Apa itu *Data Science* dan Siapa itu *Data Scientist*?](#apa-itu--data-science--dan-siapa-itu--data-scientist--)
-  * [Apa yang dilakukan oleh seorang *Data Scientist*?](#apa-yang-dilakukan-oleh-seorang-data-scientist-)
-  * [Apa saja yang harus dikuasai oleh seorang *Data Scientist*?](#apa-saja-yang-harus-dikuasai-seorang-data-scientist-)
+  * [Apa itu *Data Science* dan Siapa itu *Data Scientist*?](#apa-itu-data-science-dan-siapa-itu-data-scientist)
+  * [Apa yang dilakukan oleh seorang *Data Scientist*?](#apa-yang-dilakukan-oleh-seorang-data-scientist)
+  * [Apa saja yang harus dikuasai oleh seorang *Data Scientist*?](#apa-saja-yang-harus-dikuasai-seorang-data-scientist)
   * [*Learning Path* Menjadi *Data Scientist*](#learning-path-menjadi-data-scientist)
-  * [*Data Scientist Toolbox*](#-data-scientist--toolbox)
+  * [*Data Scientist Toolbox*](#data-scientist-toolbox)
   * [Daftar *Course*](#daftar-course)
       * [1. Pemrograman Menggunakan Python](#1-pemrograman-menggunakan-python)
       * [2. Analisis dan Visualisasi Data Menggunakan Tableau](#2-analisis-dan-visualisasi-data-menggunakan-tableau)
       * [3. Teknik Visualisasi Data Menggunakan Google Data Studio](#3-teknik-visualisasi-data-menggunakan-google-data-studio)
       * [4. Pengolahan Database Menggunakan SQL](#4-pengolahan-database-menggunakan-sql)
       * [5. Probabilitas dan Statistika](#5-probabilitas-dan-statistika)
-      * [6. Matematika Untuk *Machine Learning*](#6-matematika-untuk--machine-learning-)
-      * [7. Data Wrangling](#7---data-wrangling-)
+      * [6. Matematika Untuk *Machine Learning*](#6-matematika-untuk-machine-learning)
+      * [7. Data Wrangling](#7-data-wrangling)
       * [8. Teori Sampling](#8-teori-sampling)
-      * [9. Machine Learning](#9--machine-learning-)
-      * [10. Deep Learning](#10--deep-learning-)
+      * [9. Machine Learning](#9-machine-learning)
+      * [10. Deep Learning](#10-deep-learning)
 
 ## Apa itu *Data Science* dan Siapa itu *Data Scientist*?
 
@@ -238,7 +238,7 @@ Memahami fitur-fitur *advanced* dari Google Data Studio seperti *filters* dan *c
 
 ---
 
-## 4. Pengolahan Databse Menggunakan SQL
+## 4. Pengolahan Database Menggunakan SQL
 ### Mengapa ini penting?
 *Course* ini mempelajari tentang *database* yang umum digunakan dan bagaimana cara melakukan operasi di dalamnya.
 
@@ -257,7 +257,7 @@ Memahami fitur-fitur *advanced* dari Google Data Studio seperti *filters* dan *c
 
 #### Rekomendasi Referensi Lain
 :bulb: **Blog**
-- [SQL - Tutorials Point](https://www.tutorialspoint.com/sql/index.html)
+- [SQL - Tutorials Point](https://www.tutorialspoint.com/sql/index.htm)
 
 :chart_with_downwards_trend: **Practice Lab**
 - [Kaggle SQL](https://www.kaggle.com/learn/intro-to-sql)
