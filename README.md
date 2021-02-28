@@ -137,6 +137,12 @@ Bayangkan bagaimana kita bisa memvisualisasikan data 3-dimensi atau lebih menggu
 :chart_with_downwards_trend: **Practice Lab**
 - [Kaggle Python](https://www.kaggle.com/learn/python)
 
+:arrow_forward: **Video**
+* **Tutorial Python, Kelas Terbuka** [[Youtube](https://www.youtube.com/playlist?list=PLZS-MHyEIRo40shyCLJCNJ1OADbd9hmpU)]: Tutorial Python dari dasar sampai *advanced*
+* **Tutorial Python, Sekolah Koding** [[Youtube](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m)]: Tutorial Python untuk pemula, membahas materi Python dari install Python hingga fungsi
+* **Python for Everybody, Dr. Charles "Chuck" Russell Severance** [[Website](https://www.py4e.com/lessons)] [[Youtube](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)]: Tutorial Python dari pengenalan hingga aplikasi untuk visualisasi dan pengolahan *database* 
+* **Pythonic: Belajar Tips dan Tricks Pemrograman Python, Indonesia Belajar** [[Youtube](https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm)]: *playlist* ini sesuai bagi yang pernah belajar Python namun membutuhkan *tips* dan *tricks* yang lebih dalam guna meningkatkan *skill* *programming* di Python. 
+
 ### Topics
 #### 1.1 Python Dasar
 **Materi**
