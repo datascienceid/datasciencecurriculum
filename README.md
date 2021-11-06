@@ -10,6 +10,8 @@
 </table>
 ---
 
+### **Kita telah merilis Data Science Curriculum v2.0 [di sini](https://dsi-data-curriculum.gitbook.io/ds-curriculum/).**
+
 ## Daftar Isi
   * [Apa itu *Data Science* dan Siapa itu *Data Scientist*?](#apa-itu-data-science-dan-siapa-itu-data-scientist)
   * [Apa yang dilakukan oleh seorang *Data Scientist*?](#apa-yang-dilakukan-oleh-seorang-data-scientist)
@@ -136,6 +138,12 @@ Bayangkan bagaimana kita bisa memvisualisasikan data 3-dimensi atau lebih menggu
 
 :chart_with_downwards_trend: **Practice Lab**
 - [Kaggle Python](https://www.kaggle.com/learn/python)
+
+:arrow_forward: **Video**
+* **Tutorial Python, Kelas Terbuka** [[Youtube](https://www.youtube.com/playlist?list=PLZS-MHyEIRo40shyCLJCNJ1OADbd9hmpU)]: Tutorial Python dari dasar sampai *advanced*
+* **Tutorial Python, Sekolah Koding** [[Youtube](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m)]: Tutorial Python untuk pemula, membahas materi Python dari cara menginstal Python hingga membuat fungsi
+* **Python for Everybody, Dr. Charles "Chuck" Russell Severance** [[Website](https://www.py4e.com/lessons)] [[Youtube](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)]: Tutorial Python dari pengenalan hingga aplikasi untuk visualisasi dan pengolahan *database* 
+* **Pythonic: Belajar Tips dan Tricks Pemrograman Python, Indonesia Belajar** [[Youtube](https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm)]: *playlist* ini sesuai bagi yang pernah belajar Python namun membutuhkan *tips* dan *tricks* yang lebih dalam guna meningkatkan *skill* *programming* di Python. 
 
 ### Topics
 #### 1.1 Python Dasar
@@ -532,18 +540,3 @@ Memahami *hyperparameters* CNNs seperti *stride*, *padding*, *kernel size*, sert
 
 #### 10.4 Sequence Models
 Memahami berbagai macam *sequence models* seperti RNNs, Gated Recurrent Units (GRUs), Transformer dan aplikasinya.
-
----
-# Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://mrifkikurniawan.github.io"><img src="https://avatars2.githubusercontent.com/u/42391439?v=4" width=120px;alt=""/><br /><sub><b>M. Rifki Kurniawan</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation"></td>
-    <td align="center"><a href="https://www.linkedin.com/in/nikolaussiauw/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHaIlqcCr41eQ/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=blljQE7m67wJ7Vh-MfMKQ-nhVqjLQPhXZU3ayI_GeXg" width="120px";" alt=""/><br /><sub><b>Nikolaus Siauw</b></sub></a><br /><a href="#design-tbenning" title="Design"></td>
-    <td align="center"><a href="https://www.linkedin.com/in/farrosfr/"><img src="https://media-exp1.licdn.com/dms/image/C5103AQF_UyIepAsMRA/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=o9dyTC_1oo3Xfe_Wf7dQCVkymshXjlG5irgq_E6Plgg" width="100px;" alt=""/><br /><sub><b>M. Farros Fatchur R.</b></sub></a><br /><a href="#maintenance-sinchang" title="Maintenance"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/fauzan-habib-93b444119/"><img src="https://media-exp1.licdn.com/dms/image/C5103AQEGJBX7Qmb5jQ/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=GIATKRVnwHs--QLaB44etBwgmYGql8ZKKmLIUYj-iRQ" width="120px;" alt=""/><br /><sub><b>Fauzan Habib
-</b></sub></a><br /><a href="#translation-Berkmann18" title="Translation"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/yudha-prasetya-ab03bb131?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVLrPvcR2SbWG9SuBpUpEvg%3D%3D"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGT-qwJ9D2Z9w/profile-displayphoto-shrink_800_800/0?e=1611187200&v=beta&t=_lgAySJSRRkL2-hLx1w_a9Gd8kNpSZlQc4r5T6janXk" width="120px;" alt=""/><br /><sub><b>Yudha Prasetya</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation"></a></td>
-        <td align="center"><a href="https://indrango.github.io/"><img src="https://avatars1.githubusercontent.com/u/8984295?s=400&u=07e9e36e556f3c225906e4dc86696b11d5266caf&v=4" width="120px;" alt=""/><br /><sub><b>Indra Nugraha</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation"></a></td>
-  </tr>
-</table>
