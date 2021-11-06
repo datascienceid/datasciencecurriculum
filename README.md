@@ -10,6 +10,8 @@
 </table>
 ---
 
+### **Kita telah merilis Data Science Curriculum v2.0 [di sini](https://dsi-data-curriculum.gitbook.io/ds-curriculum/).**
+
 ## Daftar Isi
   * [Apa itu *Data Science* dan Siapa itu *Data Scientist*?](#apa-itu-data-science-dan-siapa-itu-data-scientist)
   * [Apa yang dilakukan oleh seorang *Data Scientist*?](#apa-yang-dilakukan-oleh-seorang-data-scientist)
